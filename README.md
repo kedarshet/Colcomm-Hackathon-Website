@@ -21,5 +21,5 @@ Run ```npm start``` in ```root``` to start react app and run ```nodemon server``
 
 - [@SuhasRK](https://github.com/SuhasRK)
 - [@avanish23](https://github.com/avanish23)
-- [@kedarshet](https://github.com/kedarshet)
+- [@SuryaMN](https://github.com/SuryaMN)
 
