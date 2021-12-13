@@ -9,7 +9,7 @@ A website to register for events and build teams by inviting peers, for students
 Clone this repository using
 
 ```bash
-  git clone https://github.com/SuryaMN/Colcomm-Hackathon-Website.git
+  git clone https://github.com/kedarshet/Colcomm-Hackathon-Website.git
 ```
 
 Run ``` npm install``` in ```root``` and ```backend``` directories to install all the dependencies.
